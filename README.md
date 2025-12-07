@@ -42,9 +42,9 @@ O projeto vai além de um simples jogo de adivinhação. Ele implementa conceito
 
 ---
 
-## 🎮 Como Jogar (A Experiência)
+## 🎮 Como Jogar
 
-### Na Interface Gráfica (O Palco)
+### Na Interface Gráfica
 
 * **Objetivo:** Descobrir a palavra secreta de 5 letras em até 6 tentativas.
 * **Feedback Visual:**
