@@ -1,4 +1,4 @@
-_# 🎨 Termoo em Python/Tkinter
+# Termoo em Python/Tkinter
 
 > "O código é a tela onde a lógica pinta a experiência."
 
