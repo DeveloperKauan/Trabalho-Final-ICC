@@ -54,7 +54,7 @@ O projeto vai além de um simples jogo de adivinhação. Ele implementa conceito
 * **Controles:** Use o teclado físico do seu computador ou clique no teclado virtual da tela.
 * **Temas:** Clique no ícone de Sol/Lua (☀/☾) no canto superior direito para alternar entre o modo *Midnight Slate* (Escuro) e *Daylight* (Claro).
 
-### No Terminal (O Subconsciente)
+### No Terminal
 
 Enquanto a janela do jogo está aberta, o terminal do seu editor/sistema permanece vivo e interativo. Digite os comandos abaixo para acessar os bastidores:
 
