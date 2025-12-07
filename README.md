@@ -6,7 +6,7 @@ Este projeto é uma recriação artística e técnica do jogo **Wordle** (conhec
 
 ---
 
-## 📸 Visão Geral
+## Visão Geral
 
 O projeto vai além de um simples jogo de adivinhação. Ele implementa conceitos de Engenharia de Software, incluindo:
 
@@ -17,7 +17,7 @@ O projeto vai além de um simples jogo de adivinhação. Ele implementa conceito
 
 ---
 
-## 🚀 Instalação e Execução
+## Instalação e Execução
 
 ### Pré-requisitos
 * **Python 3.10** ou superior.
@@ -42,15 +42,15 @@ O projeto vai além de um simples jogo de adivinhação. Ele implementa conceito
 
 ---
 
-## 🎮 Como Jogar
+## Como Jogar
 
 ### Na Interface Gráfica
 
 * **Objetivo:** Descobrir a palavra secreta de 5 letras em até 6 tentativas.
 * **Feedback Visual:**
-    * 🟩 **Verde:** A letra existe e está na posição correta (A harmonia perfeita).
-    * 🟨 **Amarelo:** A letra existe na palavra, mas está na posição errada (Uma nota fora do lugar).
-    * ⬛ **Escuro/Cinza:** A letra não existe na palavra (O silêncio).
+    * 🟩 **Verde:** A letra existe e está na posição correta.
+    * 🟨 **Amarelo:** A letra existe na palavra, mas está na posição errada.
+    * ⬛ **Escuro/Cinza:** A letra não existe na palavra.
 * **Controles:** Use o teclado físico do seu computador ou clique no teclado virtual da tela.
 * **Temas:** Clique no ícone de Sol/Lua (☀/☾) no canto superior direito para alternar entre o modo *Midnight Slate* (Escuro) e *Daylight* (Claro).
 
@@ -89,7 +89,7 @@ Arquivo estático que centraliza todas as constantes. Cores hexadecimais, fontes
 
 ---
 
-## ⚙️ Decisões Técnicas e Desafios
+## Decisões Técnicas e Desafios
 
 ### A Dualidade dos Datasets (csv)
 Para criar uma experiência justa mas livre, o jogo utiliza dois dicionários:
