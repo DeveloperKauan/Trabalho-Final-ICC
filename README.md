@@ -52,7 +52,7 @@ O projeto vai além de um simples jogo de adivinhação. Ele implementa conceito
     * 🟨 **Amarelo:** A letra existe na palavra, mas está na posição errada.
     * ⬛ **Escuro/Cinza:** A letra não existe na palavra.
 * **Controles:** Use o teclado físico do seu computador ou clique no teclado virtual da tela.
-* **Temas:** Clique no ícone de Sol/Lua (☀/☾) no canto superior direito para alternar entre o modo *Midnight Slate* (Escuro) e *Daylight* (Claro).
+* **Temas:** Clique no ícone de Sol/Lua (☀/☾) no canto superior direito para alternar entre o modo Escuro e Claro.
 
 ### No Terminal
 
@@ -81,7 +81,7 @@ O código foi  em camadas distintas para garantir que alterações sejam feitas 
 * **Persistência:** Lê e escreve no `termoo_stats.csv` a cada jogada válida.
 
 ### 3. `src/view.py`
-* **Estética "Seamless":** Utiliza `pack` e `grid` com espaçamentos milimétricos (`padx=1`) para criar a ilusão de uma barra de progresso sólida, removendo o visual "blocado" padrão dos botões.
+* **Estética:** Utiliza `pack` e `grid` com espaçamentos milimétricos (`padx=1`) para criar a ilusão de uma barra de progresso sólida, removendo o visual "blocado" padrão dos botões.
 * **Tradutor de Temas:** Possui um método inteligente `aplicar_tema_visual()` que percorre todos os widgets vivos, verifica suas cores atuais e as "traduz" para o novo tema selecionado, mantendo o estado do jogo.
 
 ### 4. `src/config.py` 
